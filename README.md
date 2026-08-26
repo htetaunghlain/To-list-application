@@ -40,7 +40,7 @@ A clean, responsive To-Do List web application designed to help you organize dai
 - **ホスティング / デプロイ:** Netlify
 
 ### 工夫した点
-　　MysqlではなくてJavascript を使って「LocalStorage」をつかってデータを保存したこともあったし、最初的に「Netify」というウェブサイトに載せたことは工夫した点と思います。
+　　MysqlではなくてJavascript の「LocalStorage」という関数でデータを管理したこともあったし、最初的に「Netify」というウェブサイトに載せたことは工夫した点と思います。
 
 ### 苦労した点
 　　最初的に「Netify」というウェブサイトに載せたときは、ファイルのサイズが大きくなったので、5回ぐらい修正したことがありました。
