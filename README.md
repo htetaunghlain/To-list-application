@@ -39,6 +39,12 @@ A clean, responsive To-Do List web application designed to help you organize dai
 - **フロントエンド:** HTML5, CSS3, JavaScript (ES6+)
 - **ホスティング / デプロイ:** Netlify
 
+### 工夫した点
+　　MysqlではなくてJavascript を使って「LocalStorage」をつかってデータを保存したこともあったし、最初的に「Netify」というウェブサイトに載せたことは工夫した点と思います。
+
+### 苦労した点
+　　最初的に「Netify」というウェブサイトに載せたときは、ファイルのサイズが大きくなったので、5回ぐらい修正したことがありました。
+
 ### ✨ 主な機能
 - **タスク管理:** タスクの追加、完了チェック、削除を直感的に操作可能。
 - **データの永続化:** `localStorage` を使用し、ページ更新やブラウザを閉じてもデータを保持。
